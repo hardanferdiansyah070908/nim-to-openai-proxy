@@ -89,6 +89,7 @@ const MODEL_MAPPING = {
   'm3': 'minimaxai/minimax-m3',
   'glm-5.3-flash': 'z-ai/glm-5.3-flash',
   'minimax-m3.1-flash': 'minimaxai/minimax-m3.1-flash',
+  'mistral-large-4-1t-a52b':'mistralai/mistral-large-4-1t-a52b',
 };
 
 // Used when an unrecognized alias is requested. Must point at a live model.
